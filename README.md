@@ -11,7 +11,9 @@ Investors have selected a stock they are interested in without any research. A d
 
 ### Stock Performance Analysis
 Overall, stocks had a much higher return in 2017 than 2018. All stocks except RUN and ENPH had negative returns in 2018. 
-![stock-analysis](Resources/VBA_2017_Performance.png)     ![stock-analysis](Resources/VBA_2018_Performance.png)
+
+![stock-analysis](Resources/VBA_2017_Performance.png) ![stock-analysis](Resources/VBA_2018_Performance.png)
+
 This high level of variability highlights the need for longer and more detailed trend analysis. Future stock performance cannot be known with complete certainty, and the negative returns should be used to illustrate the risk involved in limiting investment to a single stock. 
 
 ### Code Performance Analysis
